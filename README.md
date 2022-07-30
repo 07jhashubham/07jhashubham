@@ -31,7 +31,7 @@ Tech Stack
      <li> Hobbies:
         <ul> 
           <li> Learn About Investing, Farming and Learning New Things</li>
-          <li> Reading self-help Books, Sanskrit Mantras 🕉️</li>
+          <li> Reading self-help Books, Watching Tollywood Movies and Sanskrit Mantras 🕉️</li>
           <li> Web Design </li>
         </ul>
      </li>  
