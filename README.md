@@ -49,6 +49,8 @@ Tech Stack
 </tr>
 </table>
 
+[![HitCount](https://hits.dwyl.com/07jhashubham/07jhashubham.svg?style=flat-square)](http://hits.dwyl.com/07jhashubham/07jhashubham)
+
 <!--
 **07jhashubham/07jhashubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
