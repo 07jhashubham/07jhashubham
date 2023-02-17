@@ -26,7 +26,6 @@
 
 <p >
   <img src= "https://github-readme-stats.vercel.app/api?username=07jhashubham&show_icons=true&theme=highcontrast" align="left">
-<!--   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
   <p align="right" margin-top="10px">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=07jhashubham&langs_count=3" style="margin-right: '30px'" >
    </p>
