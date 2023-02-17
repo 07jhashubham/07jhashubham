@@ -50,6 +50,11 @@
 
  ![Snake animation](https://github.com/07jhashubham/07jhashubham/blob/output/github-contribution-grid-snake.svg)
  
+ ---
+ 
+ [![Jha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=07jhashubham)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 
 
 
