@@ -52,7 +52,11 @@
  
  ---
  
- [![Jha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=07jhashubham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HitCount](https://hits.dwyl.com/07jhashubham/07jhashubham.svg?style=flat-square)](http://hits.dwyl.com/07jhashubham/07jhashubham)
+
+[![Jha's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=07jhashubham)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
  
 
