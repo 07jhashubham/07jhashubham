@@ -26,9 +26,9 @@
 
 <p >
   <img src= "https://github-readme-stats.vercel.app/api?username=07jhashubham&show_icons=true&theme=highcontrast" align="left">
-  <p align="right" margin-top="10px">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=07jhashubham&langs_count=3" style="margin-right: '30px'" >
-   </p>
+<!--   <p align="right" margin-top="10px"> -->
+<!--   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=07jhashubham&langs_count=3" style="margin-right: '30px'" > -->
+<!--    </p> -->
  </p>
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
  <p align="left">
